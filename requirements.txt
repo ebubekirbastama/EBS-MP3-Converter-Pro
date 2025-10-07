@@ -1,0 +1,9 @@
+# EBS MP3 Converter Pro - Gereksinimler
+ttkbootstrap>=1.10.1
+tkinter
+subprocess
+threading
+os
+sys
+json
+glob
