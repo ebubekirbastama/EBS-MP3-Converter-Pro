@@ -98,8 +98,4 @@ python EBS-Converter.py
 
 Yıldız ⭐ vererek projeye destek olabilirsiniz!
 
----
 
-## 📄 Lisans
-
-Bu projeye uygun lisansı ekleyebilirsiniz (örn. MIT).
